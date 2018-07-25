@@ -1,4 +1,4 @@
-PKG := github.com/hypnoglow/helm-s3
+PKG := github.com/nexusix/helm-s3
 
 .PHONY: dep
 dep:
